@@ -232,9 +232,6 @@ Successfully connected to GitHub:
 ### Conclusion
 The repository is now fully set up with a robust history, multiple branches for development workflows, and a demonstration of handling merge conflicts. All mandatory Git operations have been successfully executed.
 
-### Screenshots
-
-![Git History and Operations](screenshots/git_history.png)
 
 ## 📄 License
 
